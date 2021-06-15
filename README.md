@@ -2,4 +2,7 @@
 - Binary classification
 - Imbalanced class
 - Pipeline
-# Further projects
+# Image_classification_by_pretrain_model
+- Image classification
+- Pre-trained model (MobileNet)
+- Single image predication
