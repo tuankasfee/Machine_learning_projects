@@ -6,3 +6,7 @@
 - Image classification
 - Pre-trained model (MobileNet)
 - Single image predication
+# BERT fine_tuning_for_BBC_news_Classification
+- Multiple classification
+- BERT pre-trained model
+- Single text prediction
