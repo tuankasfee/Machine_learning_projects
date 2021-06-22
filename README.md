@@ -2,11 +2,15 @@
 - Binary classification
 - Imbalanced class
 - Pipeline
-# Image_classification_by_pretrain_model
-- Image classification
+# Image_classification_by_pretrain_model -> Melanoma
+- Image classification (Binary classification)
 - Pre-trained model (MobileNet)
 - Single image predication
+# Image_classification_by_pretrain_model -> OA Knee
+- Image classification (Multiclass classification)
+- Pre-trained model (ResNet)
+- Single image predication
 # BERT fine_tuning_for_BBC_news_Classification
-- Multiple classification
+- Multiclass classification
 - BERT pre-trained model
 - Single text prediction
