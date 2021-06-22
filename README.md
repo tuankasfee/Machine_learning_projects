@@ -1,3 +1,7 @@
+# BERT fine_tuning_for_BBC_news_Classification
+- Multiclass classification
+- BERT pre-trained model
+- Single text prediction
 # Flamingham_Risk_Prediction
 - Binary classification
 - Imbalanced class
@@ -10,7 +14,4 @@
 - Image classification (Multiclass classification)
 - Pre-trained model (ResNet)
 - Single image predication
-# BERT fine_tuning_for_BBC_news_Classification
-- Multiclass classification
-- BERT pre-trained model
-- Single text prediction
+
