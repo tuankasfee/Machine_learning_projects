@@ -14,4 +14,6 @@
 - Image classification (Multiclass classification)
 - Pre-trained model (ResNet)
 - Single image predication
-
+# Siliency Map
+- Image classification (Binary classification) -> Pneumonia
+- Silency Map
