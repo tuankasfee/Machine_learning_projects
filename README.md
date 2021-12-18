@@ -17,3 +17,8 @@
 # Siliency Map
 - Image classification (Binary classification) -> Pneumonia
 - Silency Map
+# Clinical note prediction
+- MIMIC III dataset
+- BERT fine tune (AutoBERT)
+- Multiple label classification
+- Dataloader
