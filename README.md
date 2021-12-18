@@ -1,4 +1,5 @@
 # BERT fine_tuning_for_BBC_news_Classification
+- Dataset = BBC news
 - Multiclass classification
 - BERT pre-trained model
 - Single text prediction
@@ -18,7 +19,8 @@
 - Image classification (Binary classification) -> Pneumonia
 - Silency Map
 # Clinical note prediction
-- MIMIC III dataset
-- BERT fine tune (AutoBERT)
+- Dataset = MIMIC III
 - Multiple label classification
+- BERT fine tune (AutoBERT) with Pytorch
+- Single text prediction
 - Dataloader
