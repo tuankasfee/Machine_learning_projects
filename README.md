@@ -26,4 +26,8 @@
 - Dataloader
 # Variational Autoencoder
 - Dataset = Merchant
-- Unservised learning (dimentional reduction)
+- Unservised learning (Dimentional reduction)
+# LSTM autoencoder for COVID-19 data
+- Dataset = UK COVID-19 data
+- Unservised learning (Dimentional reduction)
+- Window slice for time series
