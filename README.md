@@ -24,3 +24,6 @@
 - BERT fine tune (AutoBERT) with Pytorch
 - Single text prediction
 - Dataloader
+# Variational Autoencoder
+- Dataset = Merchant
+- Unservised learning (dimentional reduction)
